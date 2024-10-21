@@ -1,0 +1,12 @@
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\bin\Debug\Checkers.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\bin\Debug\Checkers.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.MainForm.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.GameForm.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.exe
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.pdb
+C:\Users\TUF Gaming\OneDrive - НИТУ МИСиС\Документы\Учеба\3 семестр\Технологии программирования\Курсовая (2)\Варвара Ко\6\Checkers\obj\Debug\Checkers.WinnerForm.resources
